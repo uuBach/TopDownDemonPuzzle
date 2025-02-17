@@ -1,0 +1,34 @@
+{
+    "name": "ItemsInput",
+    "maps": [
+        {
+            "name": "Key",
+            "id": "50fbcc82-d264-4f8d-ac18-91eb74c2ebde",
+            "actions": [
+                {
+                    "name": "DoorOpen",
+                    "type": "Button",
+                    "id": "872af2e9-1287-4d05-b2b4-18322cf1f508",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1df5a3a8-efe2-4f87-83f3-f230e87a6fa2",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DoorOpen",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
