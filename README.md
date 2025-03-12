@@ -6,7 +6,7 @@
 
 ## 🎬 Gameplay GIF
 
-![Gameplay demonstration: possessing enemies to solve puzzles]
+![Possessing enemies to solve puzzles](Images/download.gif)
 
 *Gameplay demonstration: distracting the guards to solve the puzzle.*
 
